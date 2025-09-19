@@ -22,7 +22,7 @@ class Library{
             println("Returned: ${book.title}")
             true
         }else{
-            println("Book not found in barrowed list")
+            println("Book not found in barrowed lists")
             false
         }
     }
